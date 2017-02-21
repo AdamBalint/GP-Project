@@ -1,0 +1,4 @@
+#!/bin/bash
+source /opt/rh/rh-python35/enable
+source ~/Python\ Project/Githubs/virtualenv-15.1.0/gpEnv/bin/activate
+

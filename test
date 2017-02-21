@@ -1,0 +1,2 @@
+#!/bin/bash
+source ~/Python/Githubs/virtualenv-15.1.0/gpEnv/bin/activate
